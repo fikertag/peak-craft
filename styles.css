@@ -284,28 +284,12 @@ line-height: 25px; /* 140% */
  border-radius: 40px;
  color: white;
  padding: 5px 15px;
- width: 200px;
+ width: 210px;
  font-weight:700 ;
  font-size: 17px;
  justify-content: center;
  margin-top: 20px;
 }
-.croun-btn{
- background-color: #fe942d;
- display: flex;
- align-items: center;
- gap: 10px;
- border: none;
- border-radius: 40px;
- color: white;
- padding: 5px 15px;
- width: 200px;
- font-weight:700 ;
- font-size: 17px;
- justify-content: center;
- margin-top: 20px;
-}
-
 .croun-btn:hover {
  background-color: #bd8a57;
 }
@@ -367,9 +351,6 @@ line-height: 25px; /* 140% */
   gap: 10px;
 }
 .croun-btn{
- font-weight:700 ;
- font-size: 17px;
- justify-content: center;
  margin-top: 0px;
 }
 }
@@ -477,6 +458,8 @@ line-height: 25px; /* 140% */
  width: 200px;
  justify-content: center;
  margin-top: 10px;
+ font-weight:700 ;
+ font-size: 17px;
 }
 .croun-btn-5{
  background-color: rgb(129, 130, 130);
@@ -490,6 +473,8 @@ line-height: 25px; /* 140% */
  width: 200px;
  justify-content: center;
  margin-top: 10px;
+ font-weight:700 ;
+ font-size: 17px;
 }
 
 @media (max-width: 860px) {
